@@ -1,0 +1,26 @@
+#one {
+    padding: 175px;
+    background-color: lightblue;
+    border: groove;
+    border-color: darkblue;
+    border: 20px solid darkblue;
+    border-radius: 5px;
+}
+
+#two {
+    display:none;
+    background-color: #4FD5D6;
+    border: 7px solid #CDFFFF;
+    border-radius: 3px;
+    padding: 25px;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 20px;
+    color: black;
+    font-size: 16px;
+    margin: 6px 4px;
+    cursor: pointer;
+}
